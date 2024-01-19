@@ -1,0 +1,23 @@
+### MetaEditor ###
+!**/Experts/**/Advisors/
+!**/Experts/**/EXamples/
+!**/Experts/**/Market/
+/Files
+/Images
+/Include
+/Indicators
+/Libraries
+/Logs
+/Profiles
+/Scripts
+/Services
+*.ex5
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
